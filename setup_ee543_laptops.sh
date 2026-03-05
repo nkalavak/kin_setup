@@ -19,7 +19,7 @@
 #   2. Reboot to pick up udev rules and group changes.S Kinova Gen3 Lite robotics worksta
 #===============================================================================
 
-set -euo pipefail
+set -eo pipefail
 
 # ──────────────────────────────────────────────────────────────────────────────
 #  CONFIG — edit these if needed
